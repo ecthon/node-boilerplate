@@ -22,8 +22,8 @@ This will start the server using tsx to watch the src/server.ts file for changes
 
 ## Project Structure
 ```
-node-boilerplate/</br>
-├── src/</br>
+node-boilerplate/
+├── src/
 │   └── server.ts
 ├── exemple.env
 ├── package.json
