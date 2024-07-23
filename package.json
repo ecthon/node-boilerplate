@@ -1,0 +1,22 @@
+{
+  "name": "node-boilerplate",
+  "version": "1.0.0",
+  "description": "Basic initial settings to start a node project.",
+  "main": "server.ts",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "tsx",
+    "boilerplate"
+  ],
+  "author": "@ecthon",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.4"
+  }
+}
